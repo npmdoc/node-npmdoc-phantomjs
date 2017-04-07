@@ -116,7 +116,23 @@
       .replace(/^:+/, &#x27;&#x27;)
       .replace(/:+$/, &#x27;&#x27;)
 }</pre></li>
-    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+    exit(1)
+  }
+})
+
+// NPM adds bin directories to the path, which will cause `which` to find the
+// bin for this package not the actual phantomjs bin.  Also help out people who
+// put ./bin on their path
+process.env.PATH = helper.<span class="apidocCodeKeywordSpan">cleanPath</span>(originalPath)
+
+var libPath = path.join(__dirname, &#x27;lib&#x27;)
+var pkgPath = path.join(libPath, &#x27;phantom&#x27;)
+var phantomPath = null
+
+// If the user manually installed PhantomJS, we want
+// to use the existing version.
+...</pre></li>
     </ul>
 
 
