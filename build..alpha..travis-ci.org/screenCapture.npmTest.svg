@@ -2,11 +2,11 @@
 <rect height="2302" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
-<tspan x="10" y="42">&gt; npmdoc-phantomjs@0.0.2 test /home/travis/build/npmdoc/node-npmdoc-phantomjs</tspan>
+<tspan x="10" y="42">&gt; npmdoc-phantomjs@0.0.3 test /home/travis/build/npmdoc/node-npmdoc-phantomjs</tspan>
 <tspan x="10" y="58">&gt; (set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)</tspan>
 <tspan x="10" y="74"></tspan>
 <tspan x="10" y="90"></tspan>
-<tspan x="10" y="106">[MODE_BUILD=npmTest] - 2017-04-07T16:11:46Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
+<tspan x="10" y="106">[MODE_BUILD=npmTest] - 2017-04-07T16:13:57Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
 <tspan x="10" y="122">phantomjs</tspan>
 <tspan x="10" y="138"></tspan>
 <tspan x="10" y="154"></tspan>
@@ -14,19 +14,19 @@
 <tspan x="10" y="186">c-phantomjs/test.js</tspan>
 <tspan x="10" y="202">merging file:///home/travis/build/npmdoc/node-npmdoc-phantomjs/tmp/build/test-report.json to tes\</tspan>
 <tspan x="10" y="218">t-report</tspan>
-<tspan x="10" y="234">&gt; server listening on http-port 36758</tspan>
+<tspan x="10" y="234">&gt; server listening on http-port 33797</tspan>
 <tspan x="10" y="250">created apidoc file:///home/travis/build/npmdoc/node-npmdoc-phantomjs/tmp/build/apidoc.html</tspan>
 <tspan x="10" y="266"></tspan>
 <tspan x="10" y="282"></tspan>
 <tspan x="10" y="298">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-phantomjs/tmp/el\</tspan>
-<tspan x="10" y="314">ectron.15b492f99e60.b865d769c36f5.html</tspan>
+<tspan x="10" y="314">ectron.15b493196360.25243c51a3fa1.html</tspan>
 <tspan x="10" y="330"></tspan>
 <tspan x="10" y="346">[node test-case 1 of 6 passed] - testCase_buildLib_default</tspan>
 <tspan x="10" y="362">[node test-case 2 of 6 passed] - testCase_buildReadme_default</tspan>
 <tspan x="10" y="378">[node test-case 3 of 6 passed] - testCase_buildTest_default</tspan>
 <tspan x="10" y="394"></tspan>
 <tspan x="10" y="410">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-phantomjs/tmp/el\</tspan>
-<tspan x="10" y="426">ectron.15b492f9a170.55c1f6fb2dd49.html</tspan>
+<tspan x="10" y="426">ectron.15b493196620.3c84c3111059d.html</tspan>
 <tspan x="10" y="442"></tspan>
 <tspan x="10" y="458">Considering PhantomJS found at /home/travis/build/npmdoc/node-npmdoc-phantomjs/node_modules/.bin\</tspan>
 <tspan x="10" y="474">/phantomjs</tspan>
@@ -40,45 +40,45 @@
 <tspan x="10" y="602">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
 <tspan x="10" y="618">Verified checksum of previously downloaded file</tspan>
 <tspan x="10" y="634">Extracting tar contents (via spawned process)</tspan>
-<tspan x="10" y="650">&gt; server listening on http-port 45296</tspan>
+<tspan x="10" y="650">&gt; server listening on http-port 43845</tspan>
 <tspan x="10" y="666">merging file:///home/travis/build/npmdoc/node-npmdoc-phantomjs/tmp/build/test-report.json to tes\</tspan>
 <tspan x="10" y="682">t-report</tspan>
-<tspan x="10" y="698">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="714">[4831:0407/161149:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="730">[4831:0407/161149:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="746">[4864:0407/161149:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
-<tspan x="10" y="762">in process gpu-process. </tspan>
-<tspan x="10" y="778">[4831:0407/161149:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
-<tspan x="10" y="794">merging file:///home/travis/build/npmdoc/node-npmdoc-phantomjs/tmp/build/test-report.json to tes\</tspan>
-<tspan x="10" y="810">t-report</tspan>
-<tspan x="10" y="826">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="842">[4829:0407/161149:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="858">[4829:0407/161149:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="874">[4894:0407/161149:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="698">merging file:///home/travis/build/npmdoc/node-npmdoc-phantomjs/tmp/build/test-report.json to tes\</tspan>
+<tspan x="10" y="714">t-report</tspan>
+<tspan x="10" y="730">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="746">[6052:0407/161359:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="762">[6052:0407/161359:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="778">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="794">[6049:0407/161359:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="810">[6049:0407/161359:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="826">[6085:0407/161359:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="842">in process gpu-process. </tspan>
+<tspan x="10" y="858">[6052:0407/161359:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="874">[6105:0407/161359:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
 <tspan x="10" y="890">in process gpu-process. </tspan>
-<tspan x="10" y="906">[4829:0407/161150:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="906">[6049:0407/161359:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
 <tspan x="10" y="922"></tspan>
 <tspan x="10" y="938">browserTest - opened url /home/travis/build/npmdoc/node-npmdoc-phantomjs/tmp/build/apidoc.html</tspan>
 <tspan x="10" y="954"></tspan>
 <tspan x="10" y="970"></tspan>
-<tspan x="10" y="986">browserTest - opened url http://127.0.0.1:36758?modeTest=1</tspan>
+<tspan x="10" y="986">browserTest - opened url http://127.0.0.1:33797?modeTest=1</tspan>
 <tspan x="10" y="1002"></tspan>
-<tspan x="10" y="1018">[4829:0407/161152:INFO:CONSOLE(250)] "----------|-----------|-----------|-----------|-----------\</tspan>
+<tspan x="10" y="1018">[6049:0407/161402:INFO:CONSOLE(250)] "----------|-----------|-----------|-----------|-----------\</tspan>
 <tspan x="10" y="1034">|</tspan>
 <tspan x="10" y="1050">File      |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
 <tspan x="10" y="1066">----------|-----------|-----------|-----------|-----------|</tspan>
 <tspan x="10" y="1082">----------|-----------|-----------|-----------|-----------|</tspan>
 <tspan x="10" y="1098">All files |       100 |       100 |       100 |       100 |</tspan>
 <tspan x="10" y="1114">----------|-----------|-----------|-----------|-----------|</tspan>
-<tspan x="10" y="1130">", source: file:///home/travis/build/npmdoc/node-npmdoc-phantomjs/tmp/electron.15b492f9a170.55c1\</tspan>
-<tspan x="10" y="1146">f6fb2dd49.html (250)</tspan>
-<tspan x="10" y="1162">[4829:0407/161152:INFO:CONSOLE(250)] "created coverage file:///tmp/build/coverage.html/index.htm\</tspan>
-<tspan x="10" y="1178">l", source: file:///home/travis/build/npmdoc/node-npmdoc-phantomjs/tmp/electron.15b492f9a170.55c\</tspan>
-<tspan x="10" y="1194">1f6fb2dd49.html (250)</tspan>
+<tspan x="10" y="1130">", source: file:///home/travis/build/npmdoc/node-npmdoc-phantomjs/tmp/electron.15b493196620.3c84\</tspan>
+<tspan x="10" y="1146">c3111059d.html (250)</tspan>
+<tspan x="10" y="1162">[6049:0407/161402:INFO:CONSOLE(250)] "created coverage file:///tmp/build/coverage.html/index.htm\</tspan>
+<tspan x="10" y="1178">l", source: file:///home/travis/build/npmdoc/node-npmdoc-phantomjs/tmp/electron.15b493196620.3c8\</tspan>
+<tspan x="10" y="1194">4c3111059d.html (250)</tspan>
 <tspan x="10" y="1210">[node test-case 4 of 6 passed] - testCase_buildApp_default</tspan>
 <tspan x="10" y="1226">Removing /home/travis/build/npmdoc/node-npmdoc-phantomjs/node_modules/phantomjs/lib/phantom</tspan>
-<tspan x="10" y="1242">Copying extracted folder /tmp/phantomjs/phantomjs-2.1.1-linux-x86_64.tar.bz2-extract-14915815089\</tspan>
-<tspan x="10" y="1258">09/phantomjs-2.1.1-linux-x86_64 -&gt; /home/travis/build/npmdoc/node-npmdoc-phantomjs/node_modules/\</tspan>
+<tspan x="10" y="1242">Copying extracted folder /tmp/phantomjs/phantomjs-2.1.1-linux-x86_64.tar.bz2-extract-14915816389\</tspan>
+<tspan x="10" y="1258">37/phantomjs-2.1.1-linux-x86_64 -&gt; /home/travis/build/npmdoc/node-npmdoc-phantomjs/node_modules/\</tspan>
 <tspan x="10" y="1274">phantomjs/lib/phantom</tspan>
 <tspan x="10" y="1290">Writing location.js file</tspan>
 <tspan x="10" y="1306">Done. Phantomjs binary available at /home/travis/build/npmdoc/node-npmdoc-phantomjs/node_modules\</tspan>
@@ -103,7 +103,7 @@
 <tspan x="10" y="1610">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-phantomjs/tmp/b\</tspan>
 <tspan x="10" y="1626">uild/screenCapture.npmTest.browser..html</tspan>
 <tspan x="10" y="1642"></tspan>
-<tspan x="10" y="1658">browserTest - exit-code 0 - http://127.0.0.1:36758?modeTest=1</tspan>
+<tspan x="10" y="1658">browserTest - exit-code 0 - http://127.0.0.1:33797?modeTest=1</tspan>
 <tspan x="10" y="1674"></tspan>
 <tspan x="10" y="1690"></tspan>
 <tspan x="10" y="1706">browserTest - merged coverage from /home/travis/build/npmdoc/node-npmdoc-phantomjs/tmp/coverage.\</tspan>
@@ -131,8 +131,8 @@
 <tspan x="10" y="2058">t-report</tspan>
 <tspan x="10" y="2074"></tspan>
 <tspan x="10" y="2090">-------------------------------------------------------</tspan>
-<tspan x="10" y="2106">| test-report - buildNpmdoc - node - linux v6.10.2 - 2017-04-07T16:11:23.885Z</tspan>
-<tspan x="10" y="2122">|   39144 ms            0 failed        6 passed      |</tspan>
+<tspan x="10" y="2106">| test-report - buildNpmdoc - node - linux v6.10.2 - 2017-04-07T16:13:17.034Z</tspan>
+<tspan x="10" y="2122">|   56592 ms            0 failed        6 passed      |</tspan>
 <tspan x="10" y="2138">-------------------------------------------------------</tspan>
 <tspan x="10" y="2154"></tspan>
 <tspan x="10" y="2170">created test-report file:///home/travis/build/npmdoc/node-npmdoc-phantomjs/tmp/build/test-report\</tspan>
@@ -142,6 +142,6 @@
 <tspan x="10" y="2234">npmTest - 0 failed tests</tspan>
 <tspan x="10" y="2250"></tspan>
 <tspan x="10" y="2266"></tspan>
-<tspan x="10" y="2282">[MODE_BUILD=npmTest] - 2017-04-07T16:12:07Z - EXIT_CODE - 0</tspan>
+<tspan x="10" y="2282">[MODE_BUILD=npmTest] - 2017-04-07T16:14:17Z - EXIT_CODE - 0</tspan>
 </text>
 </svg>
